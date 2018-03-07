@@ -1,0 +1,46 @@
+Alpha Series α 문서작업용
+α-I (기종코드 UFA1-[N/U]2016CIR2) 
+α-II (기종코드 UFA2-[N/U]2016CIR4) 
+α-III (기종코드 UFA3-[N/U]2016CIR4) 
+
+Beta Series β 가정용 
+β-I (기종코드 UFB1-[N/U]2016CI3R4) 
+β-II (기종코드 UFB2-[N/U]2016CI3R8) 
+β-III (기종코드 UFB3-[N/U]2016CI5R4) 
+β-IV (기종코드 UFB4-[N/U]2016CI5R8) 
+
+Gamma Series γ 그래픽용 
+γ-I (기종코드 UFG1-[N/U]2016CI7GK6R16) 
+γ-II (기종코드 UFG2-[N/U]2016CI7GK2R16) 
+γ-III (기종코드 UFG3-[N/U]2016CI7GM4R16) 
+γ-IV (기종코드 UFG4-[N/U]2016CI7GM5R32) 
+
+Delta Series δ 서버용 
+δ-I (기종코드 UFDE1-[N/U]2016CAR32) 
+δ-IA (기종코드 UFDE1A-[N/U]2016CIR64) 
+δ-IG (기종코드 UFDE1G-[N/U]2016CIG63R32) 
+δ-IGA (기종코드 UFDE1AG-[N/U]2016CIG63R64) 
+δ-II (기종코드 UFDE2-[N/U]2016CARF) 
+δ-IIA (기종코드 UFDE2-[N/U]2016CAG63RF) 
+
+Epsilon Series ε 미니컴 
+ε-1 CPU(기종코드 UFEP1-[N/U]2016CAR4) 
+
+Zeta Series ζ 게임용 
+ζ-AI (기종코드 UFZEA1-[N/U]2016CIG64R4) 
+ζ-AII (기종코드 UFZEA2-[N/U]2016CIG64R8) 
+ζ-I (기종코드 UFZE1-[N/U]2016CIG64R8) 
+ζ-II (기종코드 UFZE2-[N/U]2016CIG96R16) 
+ζ-FPSI (기종코드 UFZEF1-[N/U]2016CIG96R32F) 
+ζ-FPSII (기종코드 UFZEF2-[N/U]2016CIG18R32F) 
+ζ-FPSIIA(기종코드 UFZEF2-[N/U]2016CIG18R64FA) 
+ζ-3D (기종코드 UFZE3D-[N/U]2016CIG18R32D) 
+ζ-3DA (기종코드 UFZE3D-[N/U]2016CIG18R32A) 
+ζ-ONLINE (기종코드 UFZEO-[N/U]2016CIG18R632O) 
+
+Omega Series ω High-End 
+ω-I (기종코드 UFOM1-[N/U]2016CIHE) 
+ω-II (기종코드 UFOM2-[N/U]2016CAHE) 
+
+Pi Series π 수학계산용 
+π (주문제작)
